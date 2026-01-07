@@ -1,0 +1,4 @@
+Matrix Template Library
+
+„A compile-time sized matrix library using C++ templates, NTTPs, operator overloading, static assertions, and custom iterators.
+Focused on type safety, performance, and modern C++ design.”
